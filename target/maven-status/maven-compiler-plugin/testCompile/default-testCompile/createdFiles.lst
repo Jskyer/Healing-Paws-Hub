@@ -1,0 +1,6 @@
+com\example\hou\RegisterTest.class
+com\example\hou\MQTest.class
+com\example\hou\Springboot17MongodbApplicationTests.class
+com\example\hou\ESTest.class
+com\example\hou\HouApplicationTests.class
+com\example\hou\RedisTests.class
